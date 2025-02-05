@@ -10,6 +10,7 @@ import {UserService} from "../../core/service/user.service";
   imports: [
     RouterLink,
     ReactiveFormsModule,
+    
     CommonModule
   ],
   templateUrl: './register.component.html',

@@ -13,6 +13,7 @@ import {UserService} from "../../core/service/user.service";
     NgIf
   ],
   templateUrl: './login.component.html',
+  
   styles: ``
 })
 export class LoginComponent {
