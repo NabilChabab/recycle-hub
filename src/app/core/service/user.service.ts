@@ -17,6 +17,7 @@ export class UserService {
     if (existingUser) {
       throw new Error('Email already exists');
     }
+    
     return this.db.users.add(user);
   }
 
