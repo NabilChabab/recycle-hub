@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './about.component.html',
   styles: ``
-  
 })
 export class AboutComponent {
 
