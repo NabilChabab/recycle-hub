@@ -13,7 +13,6 @@ import {NavbarComponent} from "../../shared/navbar/navbar.component";
     RouterLinkActive,
     AboutComponent,
     ContactComponent,
-    
     FooterComponent,
     NavbarComponent
   ],
